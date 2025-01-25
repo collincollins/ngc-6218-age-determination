@@ -1,6 +1,6 @@
 # NGC-6218 Age Determination
 
-This Jupyter Notebook, created by Collin Collins on 30 March 2024, demonstrates the process of determining the age of the star cluster NGC-6218 using a color-magnitude diagram (CMD).
+This Jupyter Notebook, created on 30 March 2024, demonstrates the process of determining the age of the star cluster NGC-6218 using a color-magnitude diagram (CMD).
 
 ## Overview
 
